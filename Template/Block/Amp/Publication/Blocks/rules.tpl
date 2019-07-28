@@ -1,0 +1,2 @@
+<h2 class="art"><a class="kat-link" onclick="ShowList(<?=$blockIndex?>);return false;" href="#"><?=$block->title?></a></h2>
+<div id="block<?=$blockIndex?>" class="block-rules-carrier" style="display:none"><?=$block->body?></div>

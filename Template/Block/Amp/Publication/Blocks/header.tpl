@@ -1,0 +1,1 @@
+<h2 class="art"><?=$block->header?></h2>

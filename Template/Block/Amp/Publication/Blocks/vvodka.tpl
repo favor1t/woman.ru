@@ -1,0 +1,1 @@
+<div class="vvodka"><?=$block->body?></div>
