@@ -1,0 +1,1 @@
+<?php $this->widget('\mobile\widgets\forum\SideBarForumWidget', ['isSsiInclude' => true, 'asyncContentAction' => 'getMobileForumSideBarWidget']); ?>

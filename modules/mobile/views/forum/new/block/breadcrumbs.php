@@ -1,0 +1,1 @@
+<?php $this->renderPartial('/forum/new/block/breadcrumbs/breadcrumbs', ['section' => $section ?? null, 'subSection' => $subSection ?? null]); ?>
